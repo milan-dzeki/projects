@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/projects/static/css/main.c14f50d6.chunk.css",
+    "main.js": "/projects/static/js/main.d73251ad.chunk.js",
+    "main.js.map": "/projects/static/js/main.d73251ad.chunk.js.map",
+    "runtime-main.js": "/projects/static/js/runtime-main.61849ce8.js",
+    "runtime-main.js.map": "/projects/static/js/runtime-main.61849ce8.js.map",
+    "static/js/2.46460b6c.chunk.js": "/projects/static/js/2.46460b6c.chunk.js",
+    "static/js/2.46460b6c.chunk.js.map": "/projects/static/js/2.46460b6c.chunk.js.map",
+    "static/js/3.20106f0f.chunk.js": "/projects/static/js/3.20106f0f.chunk.js",
+    "static/js/3.20106f0f.chunk.js.map": "/projects/static/js/3.20106f0f.chunk.js.map",
+    "index.html": "/projects/index.html",
+    "static/css/main.c14f50d6.chunk.css.map": "/projects/static/css/main.c14f50d6.chunk.css.map",
+    "static/js/2.46460b6c.chunk.js.LICENSE.txt": "/projects/static/js/2.46460b6c.chunk.js.LICENSE.txt",
+    "static/media/pizza-land.420c3d12.jpg": "/projects/static/media/pizza-land.420c3d12.jpg",
+    "static/media/weekly-planner.49c2e621.jpg": "/projects/static/media/weekly-planner.49c2e621.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61849ce8.js",
+    "static/js/2.46460b6c.chunk.js",
+    "static/css/main.c14f50d6.chunk.css",
+    "static/js/main.d73251ad.chunk.js"
+  ]
+}
